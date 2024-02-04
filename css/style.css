@@ -1,0 +1,28 @@
+* { padding:0px;
+    margin:0px;
+  }
+  #cardsec 
+  {
+    margin-top:40px;
+  }	
+  .container
+  {
+	background-color:ghostwhite; 
+    width:30%;
+	margin:auto;
+	padding:25px;
+    border:2px solid blue;
+  }
+  .content
+  i 
+  { 
+    background-color:#87cefa;
+    color:#ffffff;
+    border-radius:60%; 
+	padding:7px;
+  } 
+  i:hover
+  {
+    background-color:#0000ff;
+	font-size:25px;
+  }	
